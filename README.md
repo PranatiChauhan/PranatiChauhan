@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Pranati! <br/><a href="https://github.com/PranatiChauhan"> Business Analyst</a><a href="https://www.linkedin.com/in/pranatichauhan"></a> <a 
 
+<h2>👨‍💻Projects and Learnings for Growth:</h2>
+
+<h2> Data Science </h2>
+
+
+<h2> Connect with me 📫 </h2>
+[linkedin]: https://linkedin.com/in/pranatichauhan
 <!--
-**PranatiChauhan/PranatiChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
