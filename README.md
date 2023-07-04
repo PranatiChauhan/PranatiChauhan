@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects and Learnings for Growth:</h2>
 
-<h2> Data Science </h2>
+
 
 
 <h2> Connect with me 📫 </h2>
